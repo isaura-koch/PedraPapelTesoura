@@ -9,6 +9,7 @@ Funcionalidades: <br />
   ✊ -> Pedra  <br />
   🖐 -> Papel  <br />
   ✌️ -> Tesoura  <br />
+  Onde: Pedra vence tesoura, papel vence pedra e tesoura vence papel.  <br />
 
 * São reconhecidas duas cores, uma inicia o jogo e outra encerra.  <br />
   Cor azul -> inicializa o layout do jogo. <br />
