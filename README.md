@@ -3,7 +3,7 @@
 Este projeto consiste em um jogo de pedra, papel e tesoura.  <br />
 
 Funcionalidades: <br />
-* São reconhecidas as faces dos alunos responsáveis pela implementação do jogo.
+* São reconhecidas faces para identificar o jogador 1 e o jogador 2.
 
 * São reconhecidos os gestos do tradicional jogo pedra, papel e tesoura. Sendo: <br /> 
   ✊ -> Pedra  <br />
@@ -11,8 +11,8 @@ Funcionalidades: <br />
   ✌️ -> Tesoura  <br />
 
 * São reconhecidas duas cores, uma inicia o jogo e outra encerra.  <br />
-  Cor x -> inicia <br />
-  Cor y -> encerra
+  Cor azul -> inicializa o layout do jogo. <br />
+  Cor rosa -> encerra o jogo.
  
  ## Bibliotecas de visão computacional utilizadas:
  [Open CV](https://opencv.org/) <br />
